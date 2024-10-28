@@ -138,3 +138,6 @@ data.sqlite
 /server/
 /types/
 uploads/
+
+# IDEs
+.idea/
